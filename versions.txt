@@ -1,4 +1,4 @@
-Twingate Version: 20.24.142.7557 (x64) - Updated 20240612
+Twingate Version: 20.24.193.726 (x64) - Updated 2024017
 .Net Version: Microsoft Windows Desktop Runtime - 6.0.31 (x64) - Checked 20240612
 SentinelOne Version: 23_4_4_223 (x64) - Checked 20240717
 SentinelOne Version: 23_4_4_223 (x32) - Updated 20240717
